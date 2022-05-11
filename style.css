@@ -26,9 +26,32 @@ align-content: space-between;
     margin: 0 auto 0 auto; 
     width: 33%;
 }
-img{
-    width: 360px;
-}
+
 p font{
     font-size: 80%;
+}
+
+header{
+    background-color: orange;
+    color: white;
+}
+
+img#nagara {
+    margin: 10px;
+}
+.jaran{
+    display: flex;
+    flex-wrap: wrap;
+}
+header{
+    margin: 10px;
+}
+.yado{
+    display: flex;
+    margin: ;
+    justify-content: flex-start;
+    
+}
+img {
+    margin-left: 12px;
 }
