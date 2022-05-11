@@ -40,18 +40,21 @@ img#nagara {
     margin: 10px;
 }
 .jaran{
-    display: flex;
-    flex-wrap: wrap;
+    width: 640px;
 }
 header{
     margin: 10px;
 }
 .yado{
     display: flex;
-    margin: ;
     justify-content: flex-start;
-    
 }
 img {
     margin-left: 12px;
+}
+.content{
+    width: 960px;
+}
+.ryokan{
+    display: flex;
 }
