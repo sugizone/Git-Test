@@ -1,70 +1,84 @@
-body{
+body {
     height: 960px;
 }
-.yy{
+
+.yy {
     display: flex;
 }
-header{
+
+header {
     width: 150px;
     height: 960px;
 }
-#main{
+
+#main {
     background-color: aquamarine;
     width: 500px;
     height: 710px;
 }
-h1{
-    margin:0 30px 0 20px;
+
+h1 {
+    margin: 0 30px 0 20px;
 }
-nav ul li{
-    margin:0 auto 40px auto;
+
+nav ul li {
+    margin: 0 auto 40px auto;
     list-style-type: none;
 }
-.pi{
+
+.pi {
     display: flex;
 }
-#sub1{
+
+#sub1 {
     background-color: aquamarine;
     width: 240px;
     height: 710px;
 }
-.pon{
+
+.pon {
     width: 220px;
     height: 130px;
     margin: 10px auto 10px auto;
     background-color: white;
     font-size: 91%;
 }
-#sub2{
+
+#sub2 {
     background-color: aquamarine;
     width: 200px;
     height: 710px;
 }
-.pen{
+
+.pen {
     width: 200px;
     height: 140px;
     margin: 10px 0 10px 0;
     background-color: white;
 }
-.pu{
+
+.pu {
     margin: 0 auto 0 auto;
 }
-#str{
+
+#str {
     margin: 0 auto 0 auto;
 }
-.footer{
+
+.footer {
     background-color: aquamarine;
     height: 710px;
     width: 140px;
     font-size: 85%;
 }
 
-.footer ul li{
+.footer ul li {
     list-style-type: none;
     margin: 10px auto 10px 0;
     background-color: white;
     width: 80px;
 }
+
 .flex {
     display: flex;
     justify-content: space-between;
