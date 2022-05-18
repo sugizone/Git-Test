@@ -1,0 +1,58 @@
+.frex2{
+    display: flex;
+    flex-wrap: wrap;
+}
+.frex1{
+    display: flex;
+}
+.main{
+    width: 1700px;
+    height: 1080px;
+    background-color:#EDF8F8;
+}
+nav ul li {
+    margin: 0 auto 40px auto;
+    list-style-type: none;
+}
+h1 {
+    margin: 0 30px 0 20px;
+}
+.images1{
+    margin: 10px auto 10px auto;
+}
+#img1{
+    margin:0 auto 0 auto;
+}
+#img2{
+    margin:0 auto 0 auto;
+}
+#img3{
+    margin:0 auto 0 auto;
+}
+#img4{
+    margin:0 auto 0 auto;
+}
+.felx3{
+    display: flex;
+    width: 1700px;
+}
+#text{
+    margin: 20px auto 0 auto;
+    width: 265px;
+    font-size: 150%;
+}
+#text2{
+    margin: 20px auto 0 auto;
+    width: 265px;
+    font-size: 150%;
+}
+#text3{
+    margin:20px auto 0 auto;
+    width: 265px;
+    font-size: 150%;
+}
+#text4{
+    margin:20px auto 0 auto;
+    width: 265px;
+    font-size: 150%;
+}
